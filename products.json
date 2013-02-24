@@ -1,0 +1,184 @@
+{
+  "products": [
+      {
+          "category": "Earrings", 
+          "company_id": "33", 
+          "id": "18325", 
+          "image": "AE-R9-P-MXM.jpg",
+          "price": "$375",
+          "style_hash": "AE-R9-P-MXM", 
+          "style_name": null, 
+          "stylenumber": "AE-R9-P-MXM"
+      }, 
+      {
+          "category": "Earrings", 
+          "company_id": "33", 
+          "id": "18326", 
+          "image": "AE-R9-P-MXM-2.jpg", 
+          "price": "$375", 
+          "style_hash": "AE-R9-P-MXM-2", 
+          "style_name": null, 
+          "stylenumber": "AE-R9-P-MXM-2"
+      }, 
+      {
+          "category": "Earrings", 
+          "company_id": "33", 
+          "id": "18304", 
+          "image": "AE-S9-P-MXM.jpg", 
+          "price": "$375", 
+          "style_hash": "AE-S9-P-MXM", 
+          "style_name": null, 
+          "stylenumber": "AE-S9-P-MXM"
+      }, 
+      {
+          "category": "Earrings", 
+          "company_id": "33", 
+          "id": "18350", 
+          "image": "AE-S9-P-MXM-2.jpg", 
+          "price": "$375", 
+          "style_hash": "AE-S9-P-MXM-2", 
+          "style_name": null, 
+          "stylenumber": "AE-S9-P-MXM-2"
+      }, 
+      {
+          "category": "Earrings", 
+          "company_id": "33", 
+          "id": "18366", 
+          "image": "AE-R15-P-MXM.jpg", 
+          "price": "$550", 
+          "style_hash": "AE-R15-P-MXM", 
+          "style_name": null, 
+          "stylenumber": "AE-R15-P-MXM"
+      }, 
+      {
+          "category": "Earrings", 
+          "company_id": "33", 
+          "id": "18367", 
+          "image": "AE-R15-P-MXM-2.jpg", 
+          "price": "$550", 
+          "style_hash": "AE-R15-P-MXM-2", 
+          "style_name": null, 
+          "stylenumber": "AE-R15-P-MXM-2"
+      }, 
+      {
+          "category": "Earrings", 
+          "company_id": "33", 
+          "id": "18335", 
+          "image": "AE-S15-P-MXM.jpg", 
+          "price": "$550", 
+          "style_hash": "AE-S15-P-MXM", 
+          "style_name": null, 
+          "stylenumber": "AE-S15-P-MXM"
+      }, 
+      {
+          "category": "Earrings", 
+          "company_id": "33", 
+          "id": "18303", 
+          "image": "AE-S15-P-MXM-2.jpg", 
+          "price": "$550", 
+          "style_hash": "AE-S15-P-MXM-2", 
+          "style_name": null, 
+          "stylenumber": "AE-S15-P-MXM-2"
+      }, 
+      {
+          "category": "Earrings", 
+          "company_id": "33", 
+          "id": "18327", 
+          "image": "DE101-220-GB13-MXM-7.jpg", 
+          "price": "$925", 
+          "style_hash": "DE101-220-GB13-MXM-7", 
+          "style_name": null, 
+          "stylenumber": "DE101-220-GB13-MXM-7"
+      }, 
+      {
+          "category": "Earrings", 
+          "company_id": "33", 
+          "id": "18567", 
+          "image": "GDE-2OVHPL-MXM-4.jpg", 
+          "price": "$525", 
+          "style_hash": "GDE-2OVHPL-MXM-4", 
+          "style_name": null, 
+          "stylenumber": "GDE-2OVHPL-MXM-4"
+      }, 
+      {
+          "category": "Earrings", 
+          "company_id": "33", 
+          "id": "69018", 
+          "image": "E-2LTMX-CP-MXM2.jpg", 
+          "price": "$695", 
+          "style_hash": "E-2LTMX-CP-MXM2", 
+          "style_name": null, 
+          "stylenumber": "E-2LTMX-CP-MXM2"
+      }, 
+      {
+          "category": "Earrings", 
+          "company_id": "33", 
+          "id": "69017", 
+          "image": "EHSSG-1915LT-MXM2.jpg",
+          "price": "$695", 
+          "style_hash": "EHSSG-1915LT-MXM2", 
+          "style_name": null, 
+          "stylenumber": "EHSSG-1915LT-MXM2"
+      }, 
+      {
+          "category": "Earrings", 
+          "company_id": "33", 
+          "id": "18714", 
+          "image": "LE812-MXM.jpg", 
+          "price": "$495", 
+          "style_hash": "LE812-MXM", 
+          "style_name": null, 
+          "stylenumber": "LE812-MXM"
+      }, 
+      {
+          "category": "Earrings", 
+          "company_id": "33", 
+          "id": "18713", 
+          "image": "LE812-MXM-2.jpg", 
+          "price": "$495", 
+          "style_hash": "LE812-MXM-2", 
+          "style_name": null, 
+          "stylenumber": "LE812-MXM-2"
+      }, 
+      {
+          "category": "Earrings", 
+          "company_id": "33", 
+          "id": "18712", 
+          "image": "LEG-3-MXM.jpg", 
+          "price": "$550", 
+          "style_hash": "LEG-3-MXM", 
+          "style_name": null, 
+          "stylenumber": "LEG-3-MXM"
+      }, 
+      {
+          "category": "Earrings", 
+          "company_id": "33", 
+          "id": "43529", 
+          "image": "FE-GF4-SH-MXM-2.jpg", 
+          "price": "$495", 
+          "style_hash": "FE-GF4-SH-MXM-2", 
+          "style_name": null, 
+          "stylenumber": "FE-GF4-SH-MXM-2"
+      }, 
+      {
+          "category": "Earrings", 
+          "company_id": "33", 
+          "id": "55059", 
+          "image": "E-190-S-3FH-MXM.jpg", 
+          "price": "$650", 
+          "style_hash": "E-190-S-3FH-MXM", 
+          "style_name": null, 
+          "stylenumber": "E-190-S-3FH-MXM"
+      }, 
+      {
+          "category": "Earrings", 
+          "company_id": "33", 
+          "id": "18966", 
+          "image": "SE-M-WT-MXM-4.jpg", 
+          "price": "$375", 
+          "style_hash": "SE-M-WT-MXM-4", 
+          "style_name": null, 
+          "stylenumber": "SE-M-WT-MXM-4"
+      }
+  ]
+}
