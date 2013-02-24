@@ -6,4 +6,15 @@ exports.findById = function(req,res){
 	res.send({id:req.params.id, name: "The Name", description: "description"});
 };
 
+exports.addNew = function(req,res){
+
+};
+
+exports.updateProduct = function(req,res){
+	res.send({id:req.params.id, name: "The Name", description: "description"});
+};
+
+exports.deleteProduct = function(req,res){
+	res.send({id:req.params.id, name: "The Name", description: "description"});
+};
 
